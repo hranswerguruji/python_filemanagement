@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12bf68bc-b829-45c0-96c1-fbda57c53ef1" name="Changes" comment="Close the file">
+    <list default="true" id="12bf68bc-b829-45c0-96c1-fbda57c53ef1" name="Changes" comment="Write on file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/my_file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,13 +85,31 @@
       <option name="project" value="LOCAL" />
       <updated>1716695505845</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Different way to read file">
+      <option name="closed" value="true" />
+      <created>1716695623476</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1716695623476</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Write on file">
+      <option name="closed" value="true" />
+      <created>1716695754237</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716695754237</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="File Management program initial commit" />
     <MESSAGE value="Read text from file" />
     <MESSAGE value="Close the file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Close the file" />
+    <MESSAGE value="Different way to read file" />
+    <MESSAGE value="Write on file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Write on file" />
   </component>
 </project>

@@ -2,6 +2,5 @@
 #     content = file.read()
 #     print(content)
 
-with open("my_file.txt", mode = "w") as file:
-    content = file.write("New text for me")
-    print(content)
+with open("my_file.txt", mode="a") as file:
+    file.write("\nNew text for me")
